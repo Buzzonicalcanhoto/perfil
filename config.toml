@@ -239,9 +239,9 @@ defaultContentLanguageInSubdir = false
    # icon_pack = "ai"
    
  [[params.social]]
-   # icon = "linkedin"
+    icon = "linkedin"
     icon_pack = "fa"
-    link = ""
+    link = "https://www.linkedin.com/in/augusto-buzzoni-calcanhoto-209093175/"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
