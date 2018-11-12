@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Augusto B. Calcanhoto on Augusto B. Calcanhoto</title>
+    <link>/</link>
+    <description>Recent content in Augusto B. Calcanhoto on Augusto B. Calcanhoto</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>&amp;copy; 2016 A.B.C.</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 -0300</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Nlm Set</title>
+      <link>/projects/nlm-set/</link>
+      <pubDate>Mon, 13 Aug 2018 15:45:26 -0300</pubDate>
+      
+      <guid>/projects/nlm-set/</guid>
+      <description>&lt;p&gt;Catálogo de modelos de regressão não linear. O objetivo deste projeto é desenvolver um pacote R com interface Shiny para documentar e explorar modelos de regressão não-lineares. A curva do modelo pode ser manipulada usando controles deslizantes, permitindo que o usuário selecione o modelo mais apropriado para os aplicativos.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Exemplo de publicação</title>
+      <link>/publication/ex_publication/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ex_publication/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
